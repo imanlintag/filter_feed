@@ -9,4 +9,5 @@ Install Python 3
 Import Feed Parser
 
 On your terminal/shell:
+
 Type "python3 filter_feed.py"
