@@ -12,3 +12,5 @@ Import Feed Parser
 On your terminal/shell:
 
 Type "python3 filter_feed.py"
+
+https://cloud.githubusercontent.com/assets/15330574/25887566/83134e0e-3517-11e7-8ff2-37c423a172bc.png
